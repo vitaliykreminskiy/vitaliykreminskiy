@@ -1,2 +1,2 @@
-⚡ Fun fact: A single mole can dig 20km of tunnel for a night
+⚡ Fun fact: In Switzerland it is illegal to own just one guinea pig
 
