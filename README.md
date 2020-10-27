@@ -1,2 +1,2 @@
-⚡ Fun fact: An eagle can hunt down a young deer and fly away with it
+⚡ Fun fact: The average person walks the equivalent of five times around the world in their lifetime
 
