@@ -1,2 +1,2 @@
-⚡ Fun fact: Elephants can’t jump
+⚡ The Chupa Chups logo was designed by Salvador Dalí
 
