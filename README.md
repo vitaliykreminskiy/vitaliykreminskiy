@@ -1,2 +1,26 @@
+# Hello! 👋 I'm Vitalii
 
-The ancient Roman Empire was so vast and influential that it gave rise to many innovations still in use today. One fascinating fact is that the Romans were pioneers in engineering aqueducts, which transported water from distant sources into cities and towns. The combined length of all Roman aqueducts is estimated to be around 500 kilometers (310 miles). This allowed Rome to support a population of over a million people at its peak—a remarkable feat for the time. Some of these aqueducts, like the Aqua Virgo, are still in use today, supplying water to Rome's famous Trevi Fountain
+## 👨‍💻 About Me
+- 🌍 Software developer based in **Ternopil, Ukraine**
+- 💼 Focused on **JavaScript, Node.js,** and **TypeScript** projects
+- 📈 Currently rocking on frontend and especially **React** with **Tanstack Query** and **Tanstack table** on board
+- 🛠️ Currently working on a personal finance manager with exciting features that I probably roll out somehow
+
+## 🔧 Technical Skills
+- **Languages:** TypeScript, JavaScript (Node.js)
+- **Frameworks & Libraries:** React, Tanstack Query, Tanstack Table, Lodash and others
+- **Databases:** MySQL, Firebase Firestore
+- **Testing Tools:** Vitest, Jest
+- **Styling:** Tailwind CSS, Daisy UI, MUI
+- **Other Tools:** Webpack, Vite, Cloud Functions, Github Actions, Git
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliykreminskiy&layout=compact&theme=radical)](https://github.com/vitaliykreminskiy)
+
+## 📫 Contact
+- 📧 Email: [vkrmk13@gmail.com](mailto:vkrmk13@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vitalii-kreminskyi-a085691a4/](https://www.linkedin.com/in/vitalii-kreminskyi-a085691a4/)
+
+## 👀 Other Interests
+- 📔 Bookbinding
+- 🌱 Growing a pomegranate tree indoors 🌳
+- 🎨 Drawing sometimes
