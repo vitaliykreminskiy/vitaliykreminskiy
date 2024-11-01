@@ -7,7 +7,7 @@
 - 🛠️ Currently working on a personal finance manager with exciting features that I probably roll out somehow
 
 ## 🔧 Technical Skills
-- **Languages:** TypeScript, JavaScript (Node.js)
+- **Languages:** TypeScript, JavaScript, Python lil bit
 - **Frameworks & Libraries:** React, Tanstack Query, Tanstack Table, Lodash and others
 - **Databases:** MySQL, Firebase Firestore
 - **Testing Tools:** Vitest, Jest
