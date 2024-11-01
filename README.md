@@ -14,8 +14,6 @@
 - **Styling:** Tailwind CSS, Daisy UI, MUI
 - **Other Tools:** Webpack, Vite, Cloud Functions, Github Actions, Git
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliykreminskiy&layout=compact&theme=radical)](https://github.com/vitaliykreminskiy)
-
 ## 📫 Contact
 - 📧 Email: [vkrmk13@gmail.com](mailto:vkrmk13@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/vitalii-kreminskyi-a085691a4/](https://www.linkedin.com/in/vitalii-kreminskyi-a085691a4/)
