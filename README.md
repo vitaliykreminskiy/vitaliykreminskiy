@@ -20,5 +20,4 @@
 
 ## 👀 Other Interests
 - 📔 Bookbinding
-- 🌱 Growing a pomegranate tree indoors 🌳
-- 🎨 Drawing sometimes
+- 🌱 Growing greens
