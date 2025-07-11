@@ -19,5 +19,6 @@
 - 💼 LinkedIn: [linkedin.com/in/vitalii-kreminskyi-a085691a4/](https://www.linkedin.com/in/vitalii-kreminskyi-a085691a4/)
 
 ## 👀 Other Interests
+- 🌱 Growing
+- 🍞 Baking
 - 📔 Bookbinding
-- 🌱 Growing greens
